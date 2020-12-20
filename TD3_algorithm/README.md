@@ -1,4 +1,4 @@
-# Training a Self Driving car using deep Twin Delayed Deep Deterministic Network
+# Training a Self Driving car using deep Twin Delayed Deep Deterministic Network (TD3)
 
 # Introduction
 
