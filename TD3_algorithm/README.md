@@ -57,10 +57,8 @@ python inference.py
     - Reward system can be found in Game.update() function in map.py
 
 ## __Reinforcement Learning Model and Working:__
--
 
-   
-
+- Explanation of how TD3 network works in detail
 
 ### Step 1: 
 - Initialise the replay buffer wiht "n" random records
