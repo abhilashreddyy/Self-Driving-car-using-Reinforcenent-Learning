@@ -53,6 +53,7 @@
     ![DNN_RL](images1/DNN_RL.png)
 
     - This model aligns its weights such that the car can travel on roads from source to destination.
+   
     - Models inputs are
         - +ve and -ve orientation of the car in map. Angle of the car in the map.
         - Average of the pixels under three censors.
@@ -79,4 +80,6 @@ __NOTE__ : State Represents the current state of car. We generally Input state o
     - Gamma is Discount factor. It is the value responsible for Leaving a trail for the agent about directions to perform the action 
     - In simple terms a deep learning model is trained to remember what should have been done to reach the maximum reward based on past results
 
+
+### This project is also implemented using TD3 algorithm ([github link](https://github.com/abhilashreddyy/Self-Driving-car-using-Reinforcenent-Learning/tree/main/TD3_algorithm))
 
