@@ -4,8 +4,8 @@
 
 - This repository consists of Implementations for manuovering a car on google maps roads
 - I have implemented this using 2 Reinforcement Learning algorithms
-    1. Self Driving car using Q-Learning ([github]("Q-learning"))
-    2. Self Driving car using Twin Delayed Deep Determinsitic Network (TD3) ([github]("TD3_algorithm"))
+    1. Self Driving car using Q-Learning ([github]("https://github.com/abhilashreddyy/Self-Driving-car-using-Reinforcenent-Learning/tree/main/Q-Learning"))
+    2. Self Driving car using Twin Delayed Deep Determinsitic Network (TD3) ([github]("https://github.com/abhilashreddyy/Self-Driving-car-using-Reinforcenent-Learning/tree/main/TD3_algorithm"))
 
 ## Reinforcement Learning:
 -  Reinforcement learning is the training of machine learning models to make a sequence of decisions. The agent learns to achieve a goal in an uncertain, potentially complex environment. In reinforcement learning, an artificial intelligence faces a game-like situation. The computer employs trial and error to come up with a solution to the problem. To get the machine to do what the programmer wants, the artificial intelligence gets either rewards or penalties for the actions it performs. Its goal is to maximize the total reward.
@@ -26,5 +26,5 @@ __NOTE__ : Go trough Q-learning before visiting these links for better understan
 
 - Visit here for further understanding of the project
 
-1. Self Driving car using Q-Learning ([github]("Q-learning"))
-2. Self Driving car using Twin Delayed Deep Determinsitic Network (TD3) ([github]("TD3_algorithm"))
+1. Self Driving car using Q-Learning ([github]("https://github.com/abhilashreddyy/Self-Driving-car-using-Reinforcenent-Learning/tree/main/Q-Learning"))
+2. Self Driving car using Twin Delayed Deep Determinsitic Network (TD3) ([github]("https://github.com/abhilashreddyy/Self-Driving-car-using-Reinforcenent-Learning/tree/main/TD3_algorithm"))
