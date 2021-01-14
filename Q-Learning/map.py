@@ -214,6 +214,7 @@ class Game(Widget):
                 goal_y = 267
                 swap = 1
                 print("global_vals : ",goal_x, goal_y)
+            last_reward = 2.5
 
         last_distance = distance
 
